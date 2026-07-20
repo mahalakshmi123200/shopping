@@ -27,3 +27,4 @@ This is an online shopping website developed using PHP and MySQL.
 
 ## 👩‍💻 Author
 Mahalakshmi
+wishlist feature started.
